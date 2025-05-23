@@ -1,0 +1,2 @@
+Difference between Git init and Git clone.
+The Git init and Git clone are usually confused with each other.Here it is important to note that Git clone is dependent on the Git init and creates a copy of a repository of that.
